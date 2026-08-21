@@ -1,5 +1,5 @@
 # Subindo-os-Andares
-Título do Jogo: Subindo os Anderes
+Título do Jogo: Subindo os Andares
 
 Gênero: Plataforma 2D / Ação
 
